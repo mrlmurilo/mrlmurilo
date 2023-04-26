@@ -6,8 +6,13 @@ Olá, me chamo Murilo!!
 - 🤔 Procurando sempre aprender novas linguagens e tecnologias 
 - 📫 Me contate pelo e-mail: murilomargonar@gmail.com
 - 😄 Pronouns: He/Him
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrlmurilo&show_icons=true">
+- 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrlmurilo&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrlmurilo&repo=convoychat" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
