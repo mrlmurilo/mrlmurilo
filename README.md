@@ -6,9 +6,6 @@ Olá, me chamo Murilo!!
 - 🤔 Procurando sempre aprender novas linguagens e tecnologias 
 - 📫 Me contate pelo e-mail: murilomargonar@gmail.com
 - 😄 Pronouns: He/Him
-- 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=mrlmurilo&show_icons-true&theme=dracule&include_all_commits-true&count_private-true" />
 
 
 <div style="display: inline_block"><br>
