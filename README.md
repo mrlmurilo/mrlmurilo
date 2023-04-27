@@ -5,7 +5,6 @@ Olá, me chamo Murilo!!
 - 👯 Quero colaborar em projetos, então se precisar de ajuda pode me contatar 
 - 🤔 Procurando sempre aprender novas linguagens e tecnologias 
 - 📫 Me contate pelo e-mail: murilomargonar@gmail.com
-- 😄 Pronouns: He/Him
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
