@@ -1,6 +1,6 @@
 Olá, me chamo Murilo!!
 
-- 🔭 Sou competidor da WorldSkills na modalidade de robôtica móvel, mas quero seguir carreira como Software Engenier 
+- 🔭 Sou competidor da WorldSkills na modalidade de robôtica móvel, mas quero seguir carreira como Software Engeneer
 - 🌱 Atualmente venho estudando Python e C para robôtica
 - 👯 Quero colaborar em projetos, então se precisar de ajuda pode me contatar 
 - 🤔 Procurando sempre aprender novas linguagens e tecnologias 
