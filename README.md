@@ -15,6 +15,11 @@ Olá, me chamo Murilo!!
 </div>
   
   ##
+
+ <div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/murilomargonar.png" alt="TryHackMe">
+ </div>
+ 
   
   <div>
 <a href="https://github.com/mrlmurilo">
@@ -23,10 +28,7 @@ Olá, me chamo Murilo!!
 </div>
 
 
- <div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/murilomargonar.png" alt="TryHackMe">
- </div>
- 
+
 <div>
   <a href="https://instagram.com/murilo.margonar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:murilomargonar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
