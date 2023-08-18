@@ -1,5 +1,6 @@
 Olá, me chamo Murilo!!
 
+- 🚩Estagiando na HS Technology
 - 🔭 Sou competidor da WorldSkills na modalidade de robôtica móvel
 - 🌱 Atualmente venho estudando Python e C para robôtica
 - 👯 Quero colaborar em projetos, então se precisar de ajuda pode me contatar 
