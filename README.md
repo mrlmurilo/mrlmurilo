@@ -1,4 +1,4 @@
-EOlá, me chamo Murilo!!
+Olá, me chamo Murilo!!
 
 - 🚩Desenvolvedor Junior na HS Technology
 - 🤖 Ex competidor da WorldSkills Nacional na modalidade de robôtica móvel
@@ -15,13 +15,6 @@ EOlá, me chamo Murilo!!
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
-  
-  ##
-
- <div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/murilomargonar.png" alt="TryHackMe">
- </div>
- 
   
   <div>
 <a href="https://github.com/mrlmurilo">
