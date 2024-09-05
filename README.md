@@ -2,7 +2,7 @@ Olá, me chamo Murilo!!
 
 - 🚩Desenvolvedor Junior na HS Technology
 - 🤖 Ex competidor da WorldSkills Nacional na modalidade de robôtica móvel
-- 📱 Atualmente competindo na WorldSkills etapa Estadual na modalidade #08 - Desenvolvimento Mobile
+- 📱 Atualmente competindo na WorldSkills etapa estadual na modalidade #08 - Desenvolvimento Mobile
 - 👯 Quero colaborar em projetos, então se precisar de ajuda pode me contatar 
 - 🤔 Procurando sempre aprender novas linguagens e tecnologias 
 - 📫 Me contate pelo e-mail: murilomargonar@gmail.com
