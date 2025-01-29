@@ -19,7 +19,7 @@ Olá, me chamo Murilo!!
   <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
   <br/>
-<div style="display: inline-block;"> 
+<div style="display: inline-block;" margin-right: 20px;"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlmurilo&layout=compact&langs_count=8&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrlmurilo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
