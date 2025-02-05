@@ -1,4 +1,4 @@
-Olá, me chamo Murilo!!
+Olá, me chamo Murilo!
 
 - 🚩Desenvolvedor Junior na HS Technology
 - 🤖 Ex competidor da WorldSkills Nacional na modalidade de robôtica móvel
