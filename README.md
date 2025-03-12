@@ -4,8 +4,8 @@ Olá, me chamo Murilo!
 - 🤖 Ex competidor da WorldSkills Nacional na modalidade de robôtica móvel
 - 📱 4°Lugar na WorldSkills etapa estadual #08 - Desenvolvimento Mobile
 - 👯 Quero colaborar em projetos, então se precisar de ajuda pode me contatar 
-- 🤔 Atualmente venho aprimorando minhas habilidades em desenvolvimento Java Desktop
-- 📚 Comecei recentemente a aprender sobre o desenvolvimento Web com foco em Front-End e Back-End
+- 🤔 Foco em Back-end e Desktop
+- 📚 Desenvolvedor java focado em Back-end e Desktop
 - 📫 Me contate pelo e-mail: murilomargonar@gmail.com
 
 ##
