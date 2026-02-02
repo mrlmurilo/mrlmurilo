@@ -1,0 +1,9 @@
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" rx="14" ry="14" width="800" height="120" fill="#1e1e2e"/>
+<circle cx="24" cy="24" r="6" fill="#f38ba8"/>
+<circle cx="44" cy="24" r="6" fill="#f9e2af"/>
+<circle cx="64" cy="24" r="6" fill="#a6e3a1"/>
+<text x="400" y="70" text-anchor="middle" fill="#cba6f7" font-size="22" font-family="Arial, Helvetica, sans-serif">
+Murilo • README
+</text>
+</svg>
