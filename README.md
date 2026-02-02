@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:181825&height=40&section=header&text=Murilo%20•%20README&fontColor=cba6f7&fontSize=18&radius=12" />
+
 
 ## Oi, eu sou o Murilo 😸☕
 **Desenvolvedor Fullstack (Desktop • Web • Back-end)**
@@ -36,9 +38,7 @@ _Código bem escrito, refatoração consciente e zero medo de legado_ 🐾
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrlmurilo&show_icons=true&theme=catppuccin_mocha&icon_color=ffb6c1&title_color=cba6f7&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?=mrlmurilo&layout=compact&langs_count=8&theme=catppuccin_mocha&title_color=cba6f7&cache_seconds=86400"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrlmurilo&theme=catppuccin-mocha" />
 </div>
 
 ---
