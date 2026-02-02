@@ -1,5 +1,9 @@
 <img src="./assets/macos-header.svg" />
 
+<div align="center">
+  <sub>— janela ativa —</sub>
+</div>
+
 
 ## Oi, eu sou o Murilo 😸☕
 **Desenvolvedor Fullstack (Desktop • Web • Back-end)**
