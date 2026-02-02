@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:181825&height=40&section=header&text=Murilo%20•%20README&fontColor=cba6f7&fontSize=18&radius=12" />
+<img src="./assets/macos-header.svg" />
 
 
 ## Oi, eu sou o Murilo 😸☕
