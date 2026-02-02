@@ -1,34 +1,61 @@
-Olá, me chamo Murilo!
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
 
-- 🚩Desenvolvedor Junior na HS Technology
-- 🤖 Ex competidor da WorldSkills Nacional na modalidade de robôtica móvel
-- 📱 4°Lugar na WorldSkills etapa estadual #08 - Desenvolvimento Mobile
-- 👯 Quero colaborar em projetos, então se precisar de ajuda pode me contatar 
-- 🤔 Foco em Back-end e Desktop
-- 📚 Desenvolvedor java focado em Back-end e Desktop
-- 📫 Me contate pelo e-mail: murilomargonar@gmail.com
+## Oi, eu sou o Murilo 😸☕  
+**Desenvolvedor Java | Back-end & Desktop**
 
-##
+_Compilo código, refatoro legado e faço carinho em gatos_ 🐾
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+---
+
+### 🌸 Sobre mim
+- 🚩 Desenvolvedor Junior na **HS Technology**
+- 🤖 Ex competidor da **WorldSkills Nacional – Robótica Móvel**
+- 📱 4º lugar WorldSkills Estadual #08 – Desenvolvimento Mobile
+- 👯 Curto colaborar em projetos (chama aí 👀)
+- 🤔 Foco em **Back-end** e **Desktop**
+- 📚 Java é meu habitat natural ☕
+
+---
+
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 </div>
-  <br/>
-<div style="display: inline-block;" margin-right: 20px;"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlmurilo&layout=compact&langs_count=8&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrlmurilo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrlmurilo&show_icons=true&theme=catppuccin_mocha&icon_color=ffb6c1&title_color=cba6f7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlmurilo&layout=compact&langs_count=8&theme=catppuccin_mocha&title_color=cba6f7"/>
 </div>
-    
-  ##
-  
-<div>
-  <a href="https://instagram.com/murilo.margonar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:murilomargonar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/murilo-margonar-47774421a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+---
+
+### 🌙 Atualmente estudando / curtindo
+- ☕ Java moderno (Java 17+ / 21+)
+- 🧩 Arquitetura limpa e refatoração de legado
+- 🖥️ Aplicações Desktop
+- ⚙️ Back-end bem feito (sem gambiarra… ou quase)
+
+---
+
+### 💌 Me encontra por aí
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-margonar-47774421a)
+[![Gmail](https://img.shields.io/badge/Gmail-CBA6F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilomargonar@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-CFAE70?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/murilo.margonar)
+
 </div>
+
+---
+
+<p align="center">
+  🐱 feito com Java, café e responsabilidade emocional limitada
+</p>
