@@ -1,47 +1,53 @@
+
+## Oi, eu sou o Murilo 😸☕
+**Desenvolvedor Fullstack (Desktop • Web • Back-end)**
+
 <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
 
-## Oi, eu sou o Murilo 😸☕  
-**Desenvolvedor Java | Back-end & Desktop**
 
-_Compilo código, refatoro legado e faço carinho em gatos_ 🐾
+_Código bem escrito, refatoração consciente e zero medo de legado_ 🐾
 
----
 
 ### 🌸 Sobre mim
 - 🚩 Desenvolvedor Junior na **HS Technology**
 - 🤖 Ex competidor da **WorldSkills Nacional – Robótica Móvel**
 - 📱 4º lugar WorldSkills Estadual #08 – Desenvolvimento Mobile
-- 👯 Curto colaborar em projetos (chama aí 👀)
-- 🤔 Foco em **Back-end** e **Desktop**
-- 📚 Java é meu habitat natural ☕
+- 👯 Curto colaborar em projetos e aprender em conjunto
+- 🤔 Atuação em **Desktop**, **Web** e **Back-end**
+- 📚 Stack principal baseada em Java e ecossistema JVM
 
 ---
 
 ### 🛠️ Tech Stack
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 </div>
+
+<p align="center">
+  Java • Spring Boot • Maven • JavaFX • React • Kotlin
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrlmurilo&show_icons=true&theme=catppuccin_mocha&icon_color=ffb6c1&title_color=cba6f7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlmurilo&layout=compact&langs_count=8&theme=catppuccin_mocha&title_color=cba6f7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrlmurilo&show_icons=true&theme=catppuccin_mocha&icon_color=ffb6c1&title_color=cba6f7&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?=mrlmurilo&layout=compact&langs_count=8&theme=catppuccin_mocha&title_color=cba6f7&cache_seconds=86400"/>
+
 </div>
 
 ---
 
-### 🌙 Atualmente estudando / curtindo
-- ☕ Java moderno (Java 17+ / 21+)
-- 🧩 Arquitetura limpa e refatoração de legado
-- 🖥️ Aplicações Desktop
-- ⚙️ Back-end bem feito (sem gambiarra… ou quase)
+### 🌙 Atualmente focado em
+- 🧩 Arquitetura limpa e boas práticas
+- 🖥️ Aplicações Desktop robustas
+- 🌐 Web apps modernos
+- ⚙️ Back-end consistente e escalável
 
 ---
 
@@ -54,8 +60,6 @@ _Compilo código, refatoro legado e faço carinho em gatos_ 🐾
 
 </div>
 
----
-
 <p align="center">
-  🐱 feito com Java, café e responsabilidade emocional limitada
+  🐱 feito com café, código e escolhas arquiteturais questionáveis
 </p>
