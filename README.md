@@ -37,9 +37,6 @@ _Código bem escrito, refatoração consciente e zero medo de legado_ 🐾
 
 <div align="center">
 
-<!-- Linguagens mais usadas -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlmurilo&layout=compact&langs_count=8&theme=catppuccin_mocha"/>
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrlmurilo&theme=catppuccin-mocha"/>
 
