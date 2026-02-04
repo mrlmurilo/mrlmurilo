@@ -9,8 +9,8 @@ _Código bem escrito, refatoração consciente e zero medo de legado_ 🐾
 
 ### 🌸 Sobre mim
 - 🚩 Desenvolvedor Junior na **HS Technology**
-- 🤖 Ex competidor da **WorldSkills Nacional – Robótica Móvel**
-- 📱 4º lugar WorldSkills Estadual #08 – Desenvolvimento Mobile
+- 🤖 **WorldSkills Nacional – Robótica Móvel - 2023** 
+- 📱 **WorldSkills Estadual – Desenvolvimento Mobile - 2024**
 - 👯 Curto colaborar em projetos e aprender em conjunto
 - 🤔 Atuação em **Desktop**, **Web** e **Back-end**
 - 📚 Stack principal baseada em **Java** e ecossistema **JVM**
