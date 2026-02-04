@@ -5,8 +5,6 @@
 
 _Código bem escrito, refatoração consciente e zero medo de legado_ 🐾
 
----
-
 ### 🌸 Sobre mim
 - 🚩 Desenvolvedor Junior na **HS Technology**
 - 🤖 **WorldSkills Nacional – Robótica Móvel - 2023** 
