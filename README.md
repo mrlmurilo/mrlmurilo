@@ -6,7 +6,7 @@
 _Código bem escrito, refatoração consciente e zero medo de legado_ 🐾
 
 ### 🌸 Sobre mim
-- 🚩 Desenvolvedor Junior na **HS Technology**
+- 🚩 Desenvolvedor Pleno na **Radix Engenharia e Desenvolvimento de Software**
 - 🤖 **WorldSkills Nacional – Robótica Móvel - 2023** 
 - 📱 **WorldSkills Estadual – Desenvolvimento Mobile - 2024**
 - 👯 Curto colaborar em projetos e aprender em conjunto
